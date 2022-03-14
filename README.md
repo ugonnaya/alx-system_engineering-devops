@@ -1,2 +1,1 @@
-##0x00 shell basics
-This shell basics contains bash command.
+Correction done so that this readme is readme is not empty
